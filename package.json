@@ -1,0 +1,15 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "responsive portifolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Phakama",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.6",
+    "node-sass": "^4.9.3"
+  }
+}
